@@ -1,3 +1,5 @@
+# https://pyimagesearch.com/2021/01/25/detecting-low-contrast-images-with-opencv-scikit-image-and-python/?_ga=2.136245682.2030539365.1702202819-1842902230.1698424416 
+
 # skimage.exposre.is_low_contrast:
 # This function is used to detect low contrast images by examining an image's historgram
 # and determining if the range of brightness spans less than a fractional amount of the full range

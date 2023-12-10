@@ -1,3 +1,4 @@
+# https://pyimagesearch.com/2021/01/25/detecting-low-contrast-images-with-opencv-scikit-image-and-python/?_ga=2.136245682.2030539365.1702202819-1842902230.1698424416 
 from skimage.exposure import is_low_contrast
 import numpy as np
 import argparse
